@@ -1,4 +1,4 @@
-# TRHMG Global Church Calendar
+# TRH Global Calendar
 
 A fully responsive church calendar landing page for **The Reinvention House Ministries Global**, built with **HTML5, CSS3, and JavaScript** and powered by **Teamup Calendar**.
 
